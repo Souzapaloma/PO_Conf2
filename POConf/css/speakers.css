@@ -1,0 +1,67 @@
+.panel-speakers {
+    padding-top: 26px;
+    background: #068C86;
+    line-height: 24px;
+    @font-face {
+        font-family: ;
+        src: url(font-family: 'Merriweather', serif;);
+    }
+    
+}
+
+.panel-speakers .about-speakers{
+    text-align: center;
+}
+
+.panel-speakers .tittle{
+    color: white;
+    font-size: 30px;
+    vertical-align: baseline;
+    font-weight: bold;
+    
+}
+
+.panel-speakers .subtittle{
+    color: white;
+    font-size: 22px;
+    padding-top: 10px;
+    margin-bottom: 16px;
+}
+.panel-speakers .speakers {
+    text-align: center;
+}
+.panel-speakers .speaker {
+    background-color: #ffffff;
+    margin: 0 16px 32px 0px;
+    display: inline-block;
+    padding: 18px;
+    vertical-align: top;
+    border-radius: 8px;
+    width: 250px;
+}
+
+.panel-speakers .speaker-image{
+   border-radius: 60%;
+   width: 150px;
+   height: 150px;
+}
+
+.panel-speakers .speaker-name {
+    margin-top: 10px;
+    color: #8C1B77;
+    font-size: 18px;
+   
+    font-family: 'Merriweather', serif;
+}
+
+.panel-speakers .speaker-bio {
+    font-weight: bold;
+    margin-top: 8px;
+}
+
+.panel-speakers .speaker-speach {
+    margin-top: 8px;
+    padding-top: 8px;
+    font-size: 16px;
+}
+/*roxo #8C1B77 amarelo #D9B929 rosa #D914B5 verde claro #29D9D0 verde escuro #068C86/*

@@ -1,0 +1,46 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.buttom{
+    background-color: #FAE466;
+    border-radius: 8px;
+    padding: 20px 40px;
+    display: inline-block;
+    font-size: 20px;
+    text-decoration: none;
+    border: solid 1px white;
+    text-transform: uppercase;
+    color: #8C1B77;
+}
+
+.field{
+    margin-bottom: 10px;
+    
+}
+
+.field label {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 1px;
+  font-weight: bold;
+  
+}
+
+.field .field-input {
+    display: inline-flexbox;
+    width: 100%;
+    font-size: 20px;
+    padding: 2px;
+   
+   
+    
+  }
+
+.button-place{
+    text-align: center;
+  
+}
+
+/*roxo #8C1B77 amarelo #D9B929 rosa #D914B5 verde claro #29D9D0 verde escuro #068C86/*

@@ -1,0 +1,145 @@
+.header{
+ /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#c5deea+0,8abbd7+44,066dab+100;Web+2.0+Blue+3D+%231 */
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#c5deea+0,8abbd7+44,066dab+100;Web+2.0+Blue+3D+%231 */
+background: #115a7c; /* Old browsers */
+background: -moz-linear-gradient(top,  #c5deea 0%, #8abbd7 64%, #066dab 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #c5deea 0%,#8abbd7 64%,#066dab 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #c5deea 0%,#8abbd7 64%,#066dab 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c5deea', endColorstr='#066dab',GradientType=0 ); /* IE6-9 */
+
+background-size: cover;/*cobrir a imagem toda*/
+padding-top: 32px;
+}
+
+.header .main-menu{
+    text-align: center;
+}
+
+.header .menu-item{
+    display: inline-block;
+    margin: 0 8px 30px 0;
+    color: white;
+    text-transform: uppercase;
+}
+
+.header .menu-item a {
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bolder;
+    background-color:#3d8a8dfb;
+    border-radius: 10px;
+    padding: 14px;
+    border: solid 0.3px;
+    transition: background-color 0.5s;
+}
+
+.header .menu-item a:hover {
+    background-color: #042829c5;  
+}
+
+.jumbotron{
+    text-align: center;
+    padding: 0 2px 42px 0;
+     
+}
+.header .panel-main{
+    color: #ffffff;
+    text-shadow: 4px 4px 10px rgb(105, 100, 100);
+
+}
+.header .jumbotron .title{
+    font-size: 2.8em;
+}
+.header .jumbotron .sub-title{
+    font-size: 2.0em;
+    color: #AD2480;
+    margin-top: 12px;
+}
+.header .jumbotron .buttom{
+    background-color: #FAE466;
+    border-radius: 8px;
+    padding: 20px 40px;
+    display: inline-block;
+    font-size: 20px;
+    text-decoration: none;
+    border: solid 1px white;
+}
+.header .jumbotron .panel-subscribe{
+    margin-top: 25px;
+}
+
+@media(min-width: 650px){
+
+    .header .jumbotron{
+        font-size: 26px;
+    }
+}
+
+
+/*roxo #8C1B77 amarelo #D9B929 rosa #D914B5 verde claro #29D9D0 verde escuro #068C86/*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#2989d8+8,1e5799+10,2989d8+86,1e5799+89,1e5799+96&0+0,0.8+4,1+9,1+88,0.8+94,0+100 
+background: -moz-linear-gradient(top,  rgba(93,137,216,0) 0%, rgba(137, 41, 216, 0.8) 4%, rgba(41,137,216,0.96) 8%, rgba(36,112,185,1) 9%, rgba(30,87,153,1) 10%, rgba(41,137,216,1) 86%, rgba(34,104,174,1) 88%, rgba(30,87,153,0.97) 89%, rgba(30,87,153,0.8) 94%, rgba(30,87,153,0.53) 96%, rgba(30,87,153,0) 100%);  FF3.6-15 background: -webkit-linear-gradient(top,  rgba(41,137,216,0) 0%,rgba(41,137,216,0.8) 4%,rgba(41,137,216,0.96) 8%,rgba(36,112,185,1) 9%,rgba(30,87,153,1) 10%,rgba(41,137,216,1) 86%,rgba(34,104,174,1) 88%,rgba(30,87,153,0.97) 89%,rgba(30,87,153,0.8) 94%,rgba(30,87,153,0.53) 96%,rgba(30,87,153,0) 100%); /* Chrome10-25,Safari5.1-6 
+background: linear-gradient(to bottom,  rgba(41,137,216,0) 0%,rgba(41,137,216,0.8) 4%,rgba(41,137,216,0.96) 8%,rgba(36,112,185,1) 9%,rgba(30,87,153,1) 10%,rgba(41,137,216,1) 86%,rgba(34,104,174,1) 88%,rgba(30,87,153,0.97) 89%,rgba(30,87,153,0.8) 94%,rgba(30,87,153,0.53) 96%,rgba(30,87,153,0) 100%);  W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#002989d8', endColorstr='#001e5799',GradientType=0 ); 
+
+padding-top: 50px;
+height: 120px;
+}
+
+nav ul{
+       text-align: center;
+} 
+nav li{
+    display: inline-block;
+    margin: 0 8px 15px 0;
+   
+}  
+
+nav a{
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bolder;
+    background-color: rgba(167, 165, 165, 0.288);
+    border-radius: 15px;
+    padding: 16px;
+    transform: background-color 3s;
+   
+   
+}
+nav a:hover {
+    background-color: #26a69a  ;  
+
+}    
+
+main{
+    text-align: center;
+    padding: 5px 0 44px 0;
+    text-transform: uppercase;
+}
+60%30%10% definir as cores */
+
+/*

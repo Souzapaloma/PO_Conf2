@@ -1,0 +1,22 @@
+.panel-form {
+    margin-top: 32px;
+   
+}
+
+.panel-form .tittle {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    color: #8C1B77;
+}
+body{
+    background-color: #ffffff;
+}
+.buttom{
+font-family: 'Times New Roman', Times, serif;
+}
+ 
+.buttom a:hover{
+    background-color: white;
+}
